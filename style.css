@@ -33,7 +33,7 @@ body{
 	padding: 20px;
 	font-family: 'Comfortaa', cursive;
 	font-size:22px;
-	background:#08038C;
+	background:#1565c0;
 	border-radius: 20px;
 	margin:10px 0 10px 0;
 	color: #f6f6f6;
@@ -52,7 +52,7 @@ body{
 
 }
 .option:hover{
-	background:#08038C;
+	background:#1a237e;
 	color: #f6f6f0;
 	font-family: 'Comforta' cursive;
 
@@ -68,6 +68,9 @@ body{
 	cursor: pointer;
 	float: right;
 	margin: 10px;
+	font-family: 'Comfortaa', cursive;
+	background: #08038C;
+	color: #f6f6f6;
 }
 .next-btn:hover{
 	font-family: 'Comfortaa', cursive;
