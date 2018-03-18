@@ -25,15 +25,7 @@ var questions = [{
     
 },
                  
-{//4
-        "question" : "How to insert a comment that has more than one line?" ,               
-	"option1"  : "//This comment has more than one line// ",
-	"option2"  : "<!--This comment has more than one line--> ",
-	"option3"  : "/*This comment has more than one line*/ ",
-	"option4"  : "##This comment has more than one line## ",
-	"answer"   : "3"
-    
-},
+
     {//5
     "question" : "The external JavaScript file must contain the <script> tag.",                
 	"option1"  : "True ",
