@@ -1,9 +1,9 @@
 body{
-	font-family: 'Comforta' cursive;
-	background:#6cf;
+	
+	background:#fff;
 }
 .container{
-	height: 330px;
+	/*height: 330px;
 	width: 1000px;
 	position: absolute;
 	top: 50%;
@@ -12,10 +12,18 @@ body{
 	background: rgba(255, 255, 255, 0.5);
 	padding: 20px;
 	border: 1px solid #08039C;
-	box-shadow: 0 0 8px 3px #fff;
+	box-shadow: 0 0 8px 3px #fff;*/
+	width: 600px;
+	height: 500px;
+	margin:0 auto;
+	padding: 10px 50px 50px 50px;
+	border-radius: 50px;
+	border: 2px solid #cbcbcb;
+	box-shadow: 10px 15px 5px #cbcbcb; 
 }
 .title{
 	padding-top: 20px;
+	font-family: 'Comfortaa', cursive;
 	text-align: center;
 	font-size: 36px;
 	text-transform: uppercase;
@@ -23,6 +31,7 @@ body{
 }
 .question{
 	padding: 20px;
+	font-family: 'Comfortaa', cursive;
 	font-size:22px;
 	background:#08038C;
 	border-radius: 20px;
@@ -31,7 +40,9 @@ body{
 }
 .option{
 	width: 470px;
+	font-family: 'Comfortaa', cursive;
 	display: inline-block;
+	font-family: 'Comforta' cursive;
 	padding: 10px 0 10px 15px;
 	vertical-align: middle;
 	background: rgba(255, 255, 255, 0.5);
@@ -43,6 +54,7 @@ body{
 .option:hover{
 	background:#08038C;
 	color: #f6f6f6;
+	font-family: 'Comforta' cursive;
 
 }
 .next-btn{
@@ -50,6 +62,7 @@ body{
 	outline: none;
 	background:rgba(255,25,255,0.5);
 	width: 100px;
+	font-family: 'Comforta' cursive;
 	height: 35px;
 	border-radius: 20px;
 	cursor: pointer;
@@ -57,11 +70,14 @@ body{
 	margin: 10px;
 }
 .next-btn:hover{
+	font-family: 'Comfortaa', cursive;
 	background: #08038C;
 	color: #f6f6f6;
 }
 .result{
 	height: 100px;
+	font-family: 'Comfortaa', cursive;
+
 	text-align: center;
 	font-size: 75px;
 
