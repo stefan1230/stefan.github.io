@@ -80,6 +80,9 @@ body{
 .result{
 	height: 100px;
 	font-family: 'Comfortaa', cursive;
+	padding-top:  auto;
+	padding-bottom: auto;
+
 
 	text-align: center;
 	font-size: 75px;
