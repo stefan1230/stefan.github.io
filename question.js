@@ -26,11 +26,11 @@ var questions = [{
 },
                  
 {//4
-    "question" : "What is the correct JavaScript syntax to change the content of the HTML element below?         <p id='demo'>This is Documentation</p>" ,               
-	"option1"  : "<script name='xxx.js'>",
-	"option2"  : "<script href='xxx.js'>",
-	"option3"  : "<script src='xxx.js'>",
-	"option4"  : "none of these",
+    "question" : "How to insert a comment that has more than one line?" ,               
+	"option1"  : "//This comment has more than one line// ",
+	"option2"  : "<!--This comment has more than one line--> ",
+	"option3"  : "/*This comment has more than one line*/ ",
+	"option4"  : "##This comment has more than one line## ",
 	"answer"   : "3"
     
 },
